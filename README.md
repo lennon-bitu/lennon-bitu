@@ -14,17 +14,17 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cs,php)]()
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=django)]
+[![My Skills](https://skillicons.dev/icons?i=django)]()
 
 ## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebird)]
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)]()
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=github,visualstudio,eclipse,pycharm,jupyter)]<br><br>
+[![My Skills](https://skillicons.dev/icons?i=github,visualstudio,eclipse)]()<br><br>
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{lennon.bitu@gmail.com})
-[![Linkedin: Lennon Bitú](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lennonbitu/)](https://www.linkedin.com/in/lennonbitu/)
+![Gmail Badge](https://img.shields.io/badge/-{lennon.bitu@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{lennon.bitu@gmail.com})
+[![Linkedin: Lennon Bitú](https://img.shields.io/badge/-lennonbitu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lennonbitu/)](https://www.linkedin.com/in/lennonbitu/)
 
 ![lennon-bitu GitHub stats](https://github-readme-stats.vercel.app/api?username=lennon-bitu&show_icons=true&theme=dark) <br><br>
 
