@@ -29,4 +29,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ![lennon-bitu GitHub stats](https://github-readme-stats.vercel.app/api?username=lennon-bitu&show_icons=true&theme=dark) <br><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lennon-bitu\&layout=compact)
+
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
