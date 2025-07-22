@@ -4,7 +4,7 @@
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
-- 🎓 Cursando [Analise e Desenvolvimeno de Sistema / Anhanguera]
+- 🎓 Formado [Analise e Desenvolvimeno de Sistema / Anhanguera]
 
 ## 🚀 Habilidades
 
