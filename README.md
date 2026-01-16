@@ -12,11 +12,10 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 👨‍💻 Minhas Skills: 
 ### Aplicação de dados
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cs,php,bootstrap,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,bootstrap,html,css)]()
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=django)]()
-[![My Skills](https://skillicons.dev/icons?i=laravel)]()
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)]()
